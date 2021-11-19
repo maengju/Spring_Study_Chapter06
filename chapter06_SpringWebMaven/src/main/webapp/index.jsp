@@ -12,9 +12,9 @@
 <hr/>
 <h3>
 	<p><a href="/chapter06_SpringWebMaven/user/writeForm">input</a></p>
-	<p><a href="">output</a></p>
-	<p><a href="">update</a></p>
-	<p><a href="">delete</a></p>
+	<p><a href="/chapter06_SpringWebMaven/user/list">output</a></p>
+	<p><a href="/chapter06_SpringWebMaven/user/modifyForm">update</a></p>
+	<p><a href="/chapter06_SpringWebMaven/user/deleteForm">delete</a></p>
 </h3>
 
 </body>

@@ -25,7 +25,7 @@ div{
 		src="/chapter06_SpringWebMaven/image/03.png"
 		onclick="location.href='/chapter06_SpringWebMaven/index'">
 
-<form name="wirteForm" id="wirteForm" method="post" action="">
+<form name="writeForm" id="writeForm" >
 
 	<table border="1" cellspacing="0"cellpadding="5">
 		<tr>
